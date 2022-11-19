@@ -3,3 +3,4 @@ git add filename that you are changing or adding
 git commit -m ""
 git push
 git rm -r filename that you are deleting
+git mv OLD FILENAME NEW FILENAME
