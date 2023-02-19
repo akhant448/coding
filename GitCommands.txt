@@ -1,6 +1,14 @@
 git status
-git add filename that you are changing or adding
-git commit -m ""
-git push
-git rm -r filename that you are deleting
+
+adding file
+1.git add filename that you are changing or adding
+2.git commit -m ""
+3.git push
+
 git mv OLD FILENAME NEW FILENAME
+
+
+deleting file
+1. git rm -r filename that you are deleting
+2. git commit -m ""
+3. git push
