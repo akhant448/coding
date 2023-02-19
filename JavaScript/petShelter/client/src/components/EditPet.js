@@ -104,7 +104,7 @@ const EditPet = (props) => {
                     </div>
                     <button className="btn btn-primary" type='submit'>Edit {pet.name}</button>
                 </div>
-            </form>
+            </form> 
         </div>
     )
 }
