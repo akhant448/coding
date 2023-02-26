@@ -95,6 +95,3 @@ console.log(SLL1.display());
 
 
 // console.log(SLL1);
-
-
-
