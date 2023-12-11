@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head></head>
+  <body>
+    <input placeholder="Type something" class="js-input" onkeyup="sameLine()">
+    <p class="js-message"></p>
+    <script>
+      function sameLine () {
+        document.querySelector('.js-message').innerHTML = document.querySelector('.js-input').value;
+      }
+    </script>
+  </body>
+</html>
