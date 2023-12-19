@@ -1,0 +1,47 @@
+.amazon-button {
+  background-color: rgb(225, 216, 20);
+  color: black;
+  font-size: 20px;
+  border: none;
+  border-radius: 30px;
+  padding: 10px 60px;
+}
+
+.request-button {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  border: none;
+  border-radius: 10px;
+  padding: 20px 30px;
+  margin-right: 20px;
+}
+
+.schedule-button {
+  background-color: rgb(230,230,230);
+  border: none;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 20px 30px;
+}
+
+.gaming-button {
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  padding: 15px 20px;
+  cursor: pointer;
+}
+
+.is-gaming-button {
+  background-color: white;
+  color: black;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  padding: 15px 20px;
+  cursor: pointer;
+}
